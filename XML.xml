@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carstore>
+
+ <car category="Sports car">
+    <brand lang="en">Volkswagen</brand>
+    <model>Arteon</model>
+    <year>2020</year>
+    <body>Shooting Brake</body>
+    <color>Blue</color>
+  </car>
+  <car category="Family car">
+    <brand lang="en">Subaru</brand>
+    <model>Outback</model>
+    <year>2021</year>
+    <body>Universal</body>
+    <color>Gray</color>
+  </car>
+</carstore>

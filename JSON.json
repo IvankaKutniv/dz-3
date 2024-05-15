@@ -1,0 +1,18 @@
+{
+    "carBrand": "Volkswagen",
+    "carModel": "Arteon",
+    "carProductYear": 2020,
+    "bodyType": "Shooting Brake",
+    "carColor": "blue",
+    "carSpecifications": {
+        "engineCapacity": "2L",
+        "horsePower": 200,
+        "transmission": "automatic",
+        "fuelType": "diesel",
+        "fuelConsumption": {
+            "min": "4L",
+            "max": "10L"
+        },
+        "carAccidents": false 
+    }
+}

@@ -1,0 +1,31 @@
+carstore:
+  category: Sports car
+    brand: Volkswagen
+    model: Arteon
+    year": 2020
+    body: Shooting Brake
+    color: blue
+    specifications: 
+      engine: 2L
+      horsePower: 200
+      transmission": automatic
+      fuelType: diesel
+      fuelConsumption: 
+        min: 4.5
+        max: 10.8
+    carAccidents: false 
+  category: Family car
+    brand: Subaru
+    model: Outback
+    year": 2021
+    body: niversal
+    color: gray
+    specifications: 
+      engine: 1.8L
+      horsePower: 160
+      transmission": automatic
+      fuelType: petrol
+      fuelConsumption: 
+        min: 4.1
+        max: 9.8
+    carAccidents: true
